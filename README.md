@@ -16,7 +16,8 @@ smile rating bar in android
   </p>
 </p>
 
- <img src="images/screenshot1.png" alt="screenshot1" width="80" height="80">
+[![Product Name Screen Shot][product-screenshot]](https://github.com/sajad-zohrei/Smile-RatingBar)
+
 
 
 <!-- CONTACT -->
@@ -26,5 +27,8 @@ Sajad zohrei - [@sajad_zohrei](https://twitter.com/sajad_zohrei) - http://progra
 
 Project Link: [https://github.com/sajad-zohrei/Smile-RatingBar](https://github.com/sajad-zohrei/Smile-RatingBar)
 
+
+
+[product-screenshot]: images/screenshot1.png
 
 
