@@ -18,9 +18,9 @@ smile rating bar in android
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
- <p align="center">
+
 [![Product Name Screen Shot][product-screenshot]](https://github.com/sajad-zohrei/Smile-RatingBar)
-</p>
+
 
 <!-- CONTACT -->
 ## Contact
