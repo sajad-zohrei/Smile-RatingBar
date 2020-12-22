@@ -1,2 +1,2 @@
+include ':lib'
 include ':app'
-rootProject.name = "SmileRatingBar"
